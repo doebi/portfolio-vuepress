@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly, we work for fun."
+hero_text: "Wir reden nicht viel, wir machen einfach. Und das nicht irgendiwe sondern <strong>voigu.at</strong>"
 title: Hero
 
 ---

@@ -1,33 +1,21 @@
 {
-    "title": "Acme",
+    "title": "voigu.at",
     "description": "Creative Agency",
     "logo": "/upload/logo.svg",
-    "footer": "Ⓒ Acme",
+    "footer": "Ⓒ  voigu.at",
     "favicon": "favicon-32x32.png",
     "navigation": [
       {
-        "text": "Works",
+        "text": "Makes",
         "link": "/",
         "position": "left",
         "external": false
       },
       {
         "text": "Instagram",
-        "link": "https://www.instagram.com/its.nwa",
-        "position": "left",
-        "external": true
-      },
-      {
-        "text": "Say hi!",
-        "link": "mailto:sayhi@mydomain.com",
+        "link": "https://www.instagram.com/",
         "position": "right",
         "external": true
-      },
-      {
-        "text": "Journal",
-        "link": "/journal/",
-        "position": "right",
-        "external": false
       }
     ]
   }
