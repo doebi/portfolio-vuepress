@@ -1,14 +1,10 @@
 <template>
-  <h1 v-if="text" class="title" v-html="text" />
+  <h1 class="title">Wir reden nicht viel, wir machen einfach. Und das nicht irgendwie sondern <voi-guat /></h1>
 </template>
 
 <script>
 export default {
   props: {
-    text: {
-      type: String,
-      required: false
-    }
   }
 }
 </script>
