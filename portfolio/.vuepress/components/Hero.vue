@@ -1,5 +1,8 @@
 <template>
+  <!--
   <h1 class="title">Wir reden nicht viel, wir machen einfach. Und das nicht irgendwie sondern <voi-guat /></h1>
+  -->
+  <h1 class="title">Unsere Arbeit beginnt wo andere aufhören. Wir sind nicht irgendwer sondern <voi-guat /></h1>
 </template>
 
 <script>

@@ -1,6 +1,6 @@
 ---
 works_index: true
-title: Hero
+title: Wir sind voiguat.
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
